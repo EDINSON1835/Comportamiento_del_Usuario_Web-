@@ -145,4 +145,4 @@ hmm-ecommerce-simulation/
 
 **Juan David Calle Correa** · **Edinson Mena Arroyo**  
 Ingeniería de Software y Datos · Universidad Digital de Antioquia  
-PREICA2601B020049 · 2026-02
+PREICA2601B020049 · 2026-01
